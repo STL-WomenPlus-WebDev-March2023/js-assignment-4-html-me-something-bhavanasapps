@@ -1,1 +1,36 @@
 /* Write your CSS here! */
+p {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 70px;
+  margin-left: 40px;
+}
+
+main {
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+}
+
+body {
+  margin-top: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+  display: block;
+
+}
+
+
+#mainHeading {
+  background-color: lightblue;
+
+}
+
+p.funParagraph {
+  background-color: lightgreen;
+
+}
