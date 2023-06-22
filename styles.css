@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  background-color: deepskyblue;
+  color: white;
+
+}
+
+main {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+}
+
+body {
+  margin-top: 8px;
+  display: block;
+  font-size: large;
+  text-align: center;
+  color: black;
+}
+
+h1,
+h2,
+h3 {
+  color: deepskyblue;
+
+
+}
+
+
+#mainHeading {
+  text-align: center;
+  color: deepskyblue
+}
+
+p.funParagraph {
+  background-color: deepskyblue;
+  text-align: center;
+
+}
